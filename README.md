@@ -21,7 +21,7 @@ SUIT―수트는 반복되는 노력을 기울이지 않아도 완성도 높은 
 ## Webfont
 ### Static
 ```html
-<link href="http://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css" rel="stylesheet">
 
 <style>
     * {font-family: ‘SUIT’, sans-serif;}
@@ -30,7 +30,7 @@ SUIT―수트는 반복되는 노력을 기울이지 않아도 완성도 높은 
 
 ### Variable
 ```html
-<link href="http://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/variable/woff2/SUIT-Variable.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/variable/woff2/SUIT-Variable.css" rel="stylesheet">
 
 <style>
     * {font-family: ‘SUIT Variable’, sans-serif;}
