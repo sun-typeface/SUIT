@@ -6,19 +6,19 @@ SUIT―수트는 반복되는 노력을 기울이지 않아도 완성도 높은 
 
 ## Download
 ### Static
-- [OTF](https://github.com/sunn-us/SUIT/releases/latest/download/SUIT-otf.zip)
-- [TTF](https://github.com/sunn-us/SUIT/releases/latest/download/SUIT-ttf.zip)
-- [WOFF2](https://github.com/sunn-us/SUIT/releases/latest/download/SUIT-woff2.zip)
+- [OTF](https://github.com/sun-typeface/SUIT/releases/latest/download/SUIT-otf.zip)
+- [TTF](https://github.com/sun-typeface/SUIT/releases/latest/download/SUIT-ttf.zip)
+- [WOFF2](https://github.com/sun-typeface/SUIT/releases/latest/download/SUIT-woff2.zip)
 
 ### Variable
-- [TTF](https://github.com/sunn-us/SUIT/releases/latest/download/SUIT-Variable-ttf.zip)
-- [WOFF2](https://github.com/sunn-us/SUIT/releases/latest/download/SUIT-Variable-woff2.zip)
+- [TTF](https://github.com/sun-typeface/SUIT/releases/latest/download/SUIT-Variable-ttf.zip)
+- [WOFF2](https://github.com/sun-typeface/SUIT/releases/latest/download/SUIT-Variable-woff2.zip)
 
 
 ## Webfont
 ### Static
 ```html
-<link href="https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT/fonts/static/woff2/SUIT.css" rel="stylesheet">
 
 <style>
   body { font-family: 'SUIT', sans-serif; }
@@ -27,7 +27,7 @@ SUIT―수트는 반복되는 노력을 기울이지 않아도 완성도 높은 
 
 ### Variable
 ```html
-<link href="https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/variable/woff2/SUIT-Variable.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT/fonts/variable/woff2/SUIT-Variable.css" rel="stylesheet">
 
 <style>
   body { font-family: 'SUIT Variable', sans-serif; }
