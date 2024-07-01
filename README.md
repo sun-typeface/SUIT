@@ -3,6 +3,12 @@
 SUIT―수트는 반복되는 노력을 기울이지 않아도 완성도 높은 형태를 유지하며, 소모적인 커뮤니케이션도 줄일 수 있도록 제작한 UI 본문용 폰트입니다.
 자세한 내용은 [소개 페이지](http://sun.fo/suit)에서 확인하세요.
 
+## Install
+
+```
+npm install @sun-typeface/suit
+```
+
 ## Download
 
 ### Static
