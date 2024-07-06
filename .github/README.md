@@ -22,6 +22,34 @@ npm install @sun-typeface/suit
 - [TTF](https://github.com/sun-typeface/SUIT/releases/latest/download/SUIT-Variable-ttf.zip)
 - [WOFF2](https://github.com/sun-typeface/SUIT/releases/latest/download/SUIT-Variable-woff2.zip)
 
+## Webfont
+
+### Static
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/static/woff2/SUIT.css"
+  rel="stylesheet"
+/>
+
+<style>
+  body { font-family: 'SUIT', sans-serif; }
+</style>
+```
+
+### Variable
+
+```html
+<link
+  href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/variable/woff2/SUIT-Variable.css"
+  rel="stylesheet"
+/>
+
+<style>
+  body { font-family: 'SUIT Variable', sans-serif; }
+</style>
+```
+
 ## License
 
 SUIT―수트는 오픈소스입니다. [SIL 오픈 폰트 라이선스](https://scripts.sil.org/OFL)에 따라 자유롭게 사용하고 수정 및 재배포 할 수 있습니다.
