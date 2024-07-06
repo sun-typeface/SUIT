@@ -4,8 +4,8 @@
   "repository": "https://github.com/sun-typeface/SUIT",
   "homepage": "https://sun.fo/suit/",
   "author": "Sun",
-  "publishConfig": {
-    "access": "public"
-  },
-  "license": "OFL-1.1"
+  "license": "OFL-1.1",
+  "files": [
+    "fonts/"
+  ]
 }
