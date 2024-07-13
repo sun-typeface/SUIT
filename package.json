@@ -1,6 +1,11 @@
 {
-  "name": "@sun-typeface/SUIT",
-  "version": "2.0.4",
+  "name": "@sun-typeface/suit",
+  "version": "2.0.5",
   "repository": "https://github.com/sun-typeface/SUIT",
-  "license": "OFL-1.1"
+  "homepage": "https://sun.fo/suit/",
+  "author": "Sun",
+  "license": "OFL-1.1",
+  "files": [
+    "fonts/"
+  ]
 }
